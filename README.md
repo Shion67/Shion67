@@ -3,11 +3,7 @@
 </p>
 
 <h1 align="center">Shion67</h1>
-<p align="center"><em>2nd Year Computer Engineering Student | Data Structures & Algorithms</em></p>
-
-<p align="center">
-  <img src="./metrics.activity.svg" alt="activity pulse" width="100%" />
-</p>
+<p align="center"><em>2nd Year Computer Engineering Student</em></p>
 
 ### 🛠️ How I Work
 
