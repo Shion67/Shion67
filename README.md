@@ -22,5 +22,5 @@
 ---
 
 <p align="center">
-  <i>Maintained with ❤️ by Xian67 · <a href="https://github.com/Shion67">GitHub Profile</a></i>
+  <i>By Shion67 · <a href="https://github.com/Shion67">GitHub Profile</a></i>
 </p>
